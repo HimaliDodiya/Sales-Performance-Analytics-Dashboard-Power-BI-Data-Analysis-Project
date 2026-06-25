@@ -10,19 +10,32 @@ The dashboard transforms raw sales data into meaningful visual insights such as 
 
 🔷 Key Features:
 
-📈 Overall Sales & Profit Analysis
-🏆 Top 10 Products by Sales
-🌍 Region-wise Sales Distribution
-📅 Monthly / Yearly Trend Analysis
-👥 Customer Segment Analysis
-📦 Category-wise Performance
-📉 Profit vs Loss Insights
-🎯 KPI Cards (Revenue, Profit, Orders, Quantity)
+ Overall Sales & Profit Analysis
+ 
+ Top 10 Products by Sales
+ 
+ Region-wise Sales Distribution
+ 
+ Monthly / Yearly Trend Analysis
+ 
+ Customer Segment Analysis
+ 
+ Category-wise Performance
+ 
+ Profit vs Loss Insights
+ 
+ KPI Cards (Revenue, Profit, Orders, Quantity)
+ 
 
 🔷 Tools & Technologies:
 
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Power Query (Data Cleaning)
+
 Excel / CSV Dataset
+
 Data Visualization Techniques
+
