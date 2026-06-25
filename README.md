@@ -1,0 +1,2 @@
+# Sales-Performance-Analytics-Dashboard-Power-BI-Data-Analysis-Project
+This project is an interactive Sales Performance Dashboard built using Power BI to analyze sales data and generate actionable insights. It tracks overall sales, profit trends, customer behavior, and product performance. It visualizes trends, top products, sales, and monthly comparisons to support business decisions and growth opportunities.
